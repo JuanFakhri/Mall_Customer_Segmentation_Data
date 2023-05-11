@@ -34,3 +34,10 @@ Dari visualisasi di atas, kita dapat mengamati bahwa tidak ada perbedaan yang je
 
 Distribusi data usia pelanggan relatif normal dengan berpusat pada rentang usia 30-39 dengan total jumlah 61 pelanggan.
 
+![image](https://github.com/JuanFakhri/Mall_Customer_Segmentation_Data/assets/61308533/07639def-e169-43c4-a819-04d4dc7ee85e)
+
+<b>Observation:</b>
+
+From the above box plots, we can observe that the distributions of the two gender groups share similar pattern for the two age groups of 20-29 and 30-39. The median spending scores of 30-39 are the highest comparing to other age groups.
+
+
