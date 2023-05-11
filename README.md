@@ -38,6 +38,9 @@ Distribusi data usia pelanggan relatif normal dengan berpusat pada rentang usia 
 
 <b>Observation:</b>
 
-From the above box plots, we can observe that the distributions of the two gender groups share similar pattern for the two age groups of 20-29 and 30-39. The median spending scores of 30-39 are the highest comparing to other age groups.
+Dari plot kotak di atas, kita dapat mengamati bahwa distribusi kedua kelompok gender memiliki pola yang sama untuk dua kelompok usia 20-29 dan 30-39. Skor pengeluaran rata-rata 30-39 adalah yang tertinggi dibandingkan dengan kelompok usia lainnya.
+
+#### 2.3 Apa distribusi pendapatan tahunan dari berbagai kelompok umur?
+
 
 
