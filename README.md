@@ -42,5 +42,10 @@ Dari plot kotak di atas, kita dapat mengamati bahwa distribusi kedua kelompok ge
 
 #### 2.3 Apa distribusi pendapatan tahunan dari berbagai kelompok umur?
 
+![image](https://github.com/JuanFakhri/Mall_Customer_Segmentation_Data/assets/61308533/67942ed6-44e0-472f-abb8-2160beff4c28)
+<b>Observation:</b>
+
+Dari plot kotak di atas, kita dapat mengamati bahwa pendapatan tahunan rata-rata tertinggi untuk pelanggan pria adalah 78K untuk kelompok usia 30-39 dan pendapatan tahunan medina tertinggi untuk pelanggan wanita adalah 74K untuk kelompok usia 30-39. Kelompok usia 30-39 juga merupakan kelompok usia dengan skor pengeluaran tertinggi dari plot kotak di bagian sebelumnya.
+
 
 
