@@ -25,3 +25,12 @@ Dari histogram distribusi skor pengeluaran yang dikemas dengan penambahan 10, ki
 <b>Observasi:</b>
  
 Dari visualisasi di atas, kita dapat mengamati bahwa tidak ada perbedaan yang jelas antara median dan kuartil atas dari skor pengeluaran pelanggan pria dan wanita. Kuartil pertama dari skor pengeluaran pria lebih rendah sebesar 10,5 unit dibandingkan dengan kuartil pertama dari skor pengeluaran wanita. Skor pengeluaran maksimum (99) untuk wanita lebih tinggi dari skor pengeluaran maksimum (97) untuk pria. Skor pengeluaran minimum (5) untuk wanita lebih tinggi dari skor pengeluaran minimum (1) untuk pria.
+
+#### 2.2 Bagaimana distribusi skor pengeluaran dari kelompok usia yang berbeda?
+![image](https://github.com/JuanFakhri/Mall_Customer_Segmentation_Data/assets/61308533/2473fe05-7346-43ff-bfbb-07fbe36eb21d)
+
+
+<b>Observasi:</b>
+
+Distribusi data usia pelanggan relatif normal dengan berpusat pada rentang usia 30-39 dengan total jumlah 61 pelanggan.
+
