@@ -85,7 +85,7 @@ Menentukan k dari k-mean untuk pengelompokan:
 
 Saya akan menggunakan metode siku di sini: melihat jumlah jarak intra-cluster, yang juga disebut sebagai inersia. Jarak intra-cluster adalah jarak antara setiap pusat cluster dan titik-titik di dalam cluster.
 
-![image.png](attachment:image.png)
+![image](https://github.com/JuanFakhri/Mall_Customer_Segmentation_Data/assets/61308533/8f1bab6f-2e06-4b39-bd2f-cc99561244d3)
 
 Mana
 <b>C1, C2, C3</b> adalah sentroid <b>Pi</b> s adalah titik dalam  <b>jarak</b> cluster itu adalah jarak Euclidean yang biasa.
