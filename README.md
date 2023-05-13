@@ -4,6 +4,8 @@
 Pada akhir kasus ini, akan dapat menjawab pertanyaan-pertanyaan di bawah ini.
 
 - Bagaimana mencapai segmentasi pelanggan menggunakan algoritma pembelajaran mesin (KMeans Clustering) dengan Python dengan cara yang paling sederhana.
+- Siapa target pelanggan Anda dengan siapa Anda dapat memulai strategi pemasaran [mudah dibicarakan]
+- Bagaimana strategi pemasaran bekerja di dunia nyata
 
 ## Deskripsi dataset:
 Saat ini, kami memiliki 200 entri data demografi pelanggan supermarket. Berikut adalah gambaran singkat tentang kolom dataset:
